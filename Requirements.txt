@@ -7,6 +7,3 @@ PIL
 nltk
 sklearn
 scikit-learn
-
-
-
