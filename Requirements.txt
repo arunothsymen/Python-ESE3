@@ -4,7 +4,7 @@ seaborn
 matplotlib 
 mpl-toolkits
 PIL
-Nltk
+nltk
 sklearn
 scikit-learn
 micropython-tokenize 
