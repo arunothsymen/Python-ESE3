@@ -1,0 +1,12 @@
+streamlit
+pandas
+seaborn
+matplotlib
+mpl-toolkits
+PIL
+nltk
+sklearn
+scikit-learn
+
+
+
