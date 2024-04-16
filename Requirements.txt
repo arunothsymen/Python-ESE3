@@ -1,9 +1,10 @@
 streamlit
 pandas
 seaborn
-matplotlib
+matplotlib 
 mpl-toolkits
 PIL
 nltk
 sklearn
 scikit-learn
+micropython-tokenize 
