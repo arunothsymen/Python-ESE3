@@ -1,7 +1,5 @@
 streamlit
 pandas
-seaborn
-seaborn==0.13.2
 matplotlib 
 mpl-toolkits
 PIL
